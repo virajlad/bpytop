@@ -1,4 +1,4 @@
-PREFIX ?= /usr/local
+PREFIX ?= /workspaces/bpytop
 DOCDIR ?= $(PREFIX)/share/bpytop/doc
 
 all:
